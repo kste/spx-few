@@ -15,4 +15,4 @@ Each file contains one parameter set per row, and consists of 10 columns, which 
 7) The parameter b in SPHINCS+.
 8) The parameter k in SPHINCS+.
 9) The parameter w in SPHINCS+.
-10) Security degradation: The value `z` such that after 2^z signatures, the forgery probability is still < 2^{-112, 128, 192} (for a security target of 128, 192, 256 bits).
+10) Security degradation: The value `z` such that after 2^z signatures, the forgery probability is still < 2^{-112, -128, -192} (for a security target of 128, 192, 256 bits).
